@@ -8,6 +8,10 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+/*
+	gin处理表单上传的文件
+*/
+
 func main() {
 	g := gin.Default()
 	/*

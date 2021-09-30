@@ -11,6 +11,7 @@ import (
 )
 
 /*
+	token中间件gin-jwt的使用
 	官方地址：https://github.com/appleboy/gin-jwt
 */
 
