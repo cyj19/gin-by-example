@@ -1,4 +1,4 @@
-module gin-hello
+module github.com/vagaryer/gin-hello
 
 go 1.16
 
