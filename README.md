@@ -1,4 +1,4 @@
-<h1 align="center" >Go By Example</h1>
+<h1 align="center" >Gin By Example</h1>
 
 <div align="center">
 通过一个个例子逐渐掌握gin
