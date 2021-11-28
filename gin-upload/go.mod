@@ -1,4 +1,4 @@
-module github.com/vagaryer/gin-upload
+module github.com/cyj19/gin-upload
 
 go 1.16
 

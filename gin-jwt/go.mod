@@ -1,4 +1,4 @@
-module github.com/vagaryer/go-jwt-example
+module github.com/cyj19/go-jwt-example
 
 go 1.16
 

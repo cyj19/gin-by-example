@@ -1,4 +1,4 @@
-module github.com/vagaryer/gin-RESTful
+module github.com/cyj19/gin-RESTful
 
 go 1.16
 
