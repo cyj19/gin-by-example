@@ -12,8 +12,8 @@
 </p>
 
 ## 目录
-- [gin-hello](https://github.com/vagaryer/gin-by-example/tree/main/gin-hello)
-- [gin-RESTful](https://github.com/vagaryer/gin-by-example/tree/main/gin-RESTful)
-- [gin-upload](https://github.com/vagaryer/gin-by-example/tree/main/gin-upload)
-- [gin-jwt](https://github.com/vagaryer/gin-by-example/tree/main/gin-jwt)
+- [gin-hello](https://github.com/cyj19/gin-by-example/tree/main/gin-hello)
+- [gin-RESTful](https://github.com/cyj19/gin-by-example/tree/main/gin-RESTful)
+- [gin-upload](https://github.com/cyj19/gin-by-example/tree/main/gin-upload)
+- [gin-jwt](https://github.com/cyj19/gin-by-example/tree/main/gin-jwt)
 - [gin-server-quit](https://github.com/cyj19/gin-by-example/tree/main/gin-server-quit)
