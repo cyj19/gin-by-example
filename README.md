@@ -1,7 +1,7 @@
 <h1 align="center" >Gin By Example</h1>
 
 <div align="center">
-通过一个个例子逐渐掌握gin
+一个例子学习一个gin知识
 </div>
 <div align="center">
 官网地址：github.com/gin-gonic/gin
@@ -16,3 +16,4 @@
 - [gin-RESTful](https://github.com/vagaryer/gin-by-example/tree/main/gin-RESTful)
 - [gin-upload](https://github.com/vagaryer/gin-by-example/tree/main/gin-upload)
 - [gin-jwt](https://github.com/vagaryer/gin-by-example/tree/main/gin-jwt)
+- [gin-server-quit](https://github.com/cyj19/gin-by-example/tree/main/gin-server-quit)
