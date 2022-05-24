@@ -17,3 +17,4 @@
 - [gin-upload](https://github.com/cyj19/gin-by-example/tree/main/gin-upload)
 - [gin-jwt](https://github.com/cyj19/gin-by-example/tree/main/gin-jwt)
 - [gin-server-quit](https://github.com/cyj19/gin-by-example/tree/main/gin-server-quit)
+- [gin-websocket](https://github.com/cyj19/gin-by-example/tree/main/gin-websocket)
